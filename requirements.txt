@@ -3,3 +3,5 @@ pyaudio
 numpy
 torch
 torchaudio
+moviepy
+ffmpeg-python
